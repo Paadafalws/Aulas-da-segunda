@@ -20,3 +20,6 @@ body {
   margin-right: -1px;
   margin-top: -1px;
 }
+.square:focus {
+  outline: none;
+}
